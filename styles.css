@@ -1,0 +1,26 @@
+/* * {
+	border: 1px dashed red;
+	min-height: 10px;
+}		 */
+
+body {
+	margin: 5px;
+}
+
+.instaTitle {
+	display: flex;
+}
+
+#instaIcon {
+	display: grid;
+	place-items: center;
+	margin-right: 15px;
+}
+
+.navRight {
+	display: flex;
+}
+
+button {
+	margin: 5px;
+}
